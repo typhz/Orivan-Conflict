@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Lupiius",
+    "leaderName": "Cecil I",
+    "adjective": "Lupian",
+    "startBias": ["Snow"],
+    "preferredVictoryType": "Domination",
+
+    "priorities": {
+      "Honor": 5,
+      "Autocracy": 100,
+      "Commerce": 20,
+      "Tradition": 50
+    },
+
+    "uniques": [
+    "[5]% [Production] from every [Coastal] <upon founding a city>"
+  ],
+    
+    "startIntroPart1": "The Lupiius Empire greets you! Under the command of Cecil I, we march to glory.",
+    "startIntroPart2": "Our mission is sacred: to bring order and the banner of Lupiius to every inch of land, no matter the cost.",
+    
+    "declaringWar": "Peace is an illusion of the weak! Prepare your trenches, for the steel of Lupiius is coming to claim what is rightfully ours!",
+    "attacked": "Ah, you dare challenge the Emperor? Let them come! The blood spilled will only water the roots of our empire.",
+    "defeated": "The throne has fallen, but the honor of Lupiius remains untouched in history.",
+    "introduction": "I am Cecil I, Emperor of Lupiius. Speak, before my generals decide your words are irrelevant.",
+ 
+    "neutralHello": "A good day for the Fatherland. What is it you desire?",
+    "hateHello": "Do not waste my time. War waits for no one.",
+    
+    "tradeRequest": "The Empire grants you the honor of trading with us. Do not dare to refuse.",
+    "denounced": "Your intrigues are worthy of trench rats. The world shall know of your cowardice.",
+    "declaringFriendship": "May our nations march side by side, under the shadow of my banner.",
+
+    "outerColor": [1, 48, 136],
+    "innerColor": [255, 255, 255],
+    
+    "cities": [
+      "Throxtwick", "Q'Grimford", "Q'Bleakham", "Q'Vronbury", "Q'Ironwick", 
+      "Q'Shadowmere", "Q'Dreadon", "Q'Holloway", "Q'Frostwich", "Q'Blackthorn", 
+      "Q'Mirewood", "Q'Gloomsby", "Q'Ravenscar", "Q'Winterton", "Q'Ashford", 
+      "Q'Moorfield", "Q'Duskhall", "Q'Coldridge", "Q'Stonegate", "Q'Fellwick", 
+      "Q'Harrowden", "Q'Grimshaw", "Q'Northmoor", "Q'Deepwell", "Qho'Vale", 
+      "Q'Fenwick", "Q'Barrowton", "Q'Yewdale", "Qol'Mire", "Q'Fogham", 
+      "Q'Heathrow", "Q'Uptoness", "Q'Stormfield", "Q'Nulldon", "Q'Ohmshire"
+    ]
+  },
+  
+  {
+    "name": "Brakonia",
+    "leaderName": "Tsar Valdor IV",
+    "adjective": "Brakonian",
+    "startBias": ["Snow", "Tundra"],
+    "preferredVictoryType": "Domination",
+
+    "priorities": {
+      "Honor": 60,
+      "Autocracy": 100,
+      "Liberty": 20,
+      "Tradition": 5
+    },
+
+    "uniques" :[
+      "[10]% [Science] [in puppeted cities]"
+    ],
+    
+    "startIntroPart1": "The frozen lands of Brakonia bow before you. I am Tsar Valdor IV, Autocrat of All the Snows.",
+    "startIntroPart2": "Our ancestors tamed the winter when other nations perished. Join us or become just another statue in the ice.",
+    
+    "declaringWar": "Winter does not ask permission to arrive, and Brakonia asks no permission to conquer! Prepare yourselves for the eternal cold!",
+    "attacked": "Ah, you dare attack the Frost Bear? Your soldiers will freeze before they even see our banners.",
+    "defeated": "The ice throne has shattered, but winter... winter always returns.",
+    "introduction": "I am Tsar Valdor IV, guardian of the White Plains. Speak, but do not waste my time with trivialities.",
+ 
+    "neutralHello": "The wind brings news. What do you desire?",
+    "hateHello": "Your presence is as welcome as a blizzard in summer. Be brief.",
+    
+    "tradeRequest": "Brakonia grants you the privilege of trading. Let resources flow to the north.",
+    "denounced": "Your words are like thin ice: they break under the very first step. The world shall know of your weakness.",
+    "declaringFriendship": "May our empires stand side by side, warmed by the fires of alliance.",
+
+    "outerColor": [196, 52, 52],
+    "innerColor": [255, 200, 10],
+    
+    "cities": [
+      "Volkograd", "Zimnyar", "Kreznov", "Borovsk", "Slavgrad", 
+      "Morozk", "Vistral", "Drevnik", "Kholodny", "Severia", 
+      "Ledograd", "Snegburg", "Metelk", "Veprsk", "Gromov", 
+      "Zorky", "Buranovo", "Iney", "Sopka", "Vetry", 
+      "Leden", "Morozov", "Krepk", "Stalgrad", "Orlov", 
+      "Volkov", "Zimny", "Borey", "Krovik", "Snezhny", 
+      "Tundrav", "Polaris", "Arktos", "Glacis", "Frostia"
+    ]
+  },
+   
+  {
+    "name": "Valestia",
+    "leaderName": "Vencel III",
+    "adjective": "Valestian",
+    "startBias": ["Plains"],
+    "preferredVictoryType": "Domination",
+
+    "priorities": {
+      "Patronage": 40,
+      "Honor": 10,
+      "Exploration": 20,
+      "Tradition": 100
+    },
+    
+    "uniques": [
+    "Great General provides double combat bonus",
+    "Gain an extra spy <when at war>"
+  ],
+
+    "startIntroPart1": "To the sound of military marches and industrial chimneys, the Empire of Valestia greets you. I am Emperor Vencel.",
+    "startIntroPart2": "The air smells of coal and gunpowder. Our great fatherland is ready for total war and absolute victory.",
+    
+    "declaringWar": "Diplomacy has been exhausted. General mobilization has been decreed, and our artillery is already aimed at your borders!",
+    "attacked": "A foolish offensive! Our trench lines are unbreakable, and barbed wire will be the grave of your soldiers.",
+    "defeated": "The Empire crumbles... The factories grow silent and our flag falls into the mud. But history will remember the roar of our cannons.",
+    "introduction": "Welcome to Valestia. I hope your intentions are peaceful, for my munition factories never sleep.",
+ 
+    "neutralHello": "Greetings. Speak quickly, I have reports from the military front to read.",
+    "hateHello": "You again? Step closer and smell the gunpowder on our uniforms.",
+    
+    "tradeRequest": "A commercial proposal. Sign it, or our armies will make the next offer.",
+    "denounced": "The world sees your weakness. When the Great War breaks out, you will have no allies in the trenches.",
+    "declaringFriendship": "A pact of steel and blood! Together, our industries and armies will dominate this continent.",
+
+    "outerColor": [0, 140, 39],
+    "innerColor": [0, 0, 0],
+    
+    "cities": [
+      "Székesvár", "Acélgárd", "Kormos", "Vérpatak", "Feketehalom", 
+      "Sziklavár", "Télihegy", "Hamuföld", "Gyászháza", "Rozsdavölgy", 
+      "Vasváros", "Vaddisznóvár", "Sötéterdő", "Ködmező", "Lángvár", 
+      "Sólyomkő", "Páncélhalom", "Szürkerét", "Éjszakavár", "Vércsemező", 
+      "Halálvölgy", "Csontváros", "Gépváros", "Árnyékföld", "Varjúhalom", 
+      "Füstvölgy", "Hollóvár", "Vasútváros", "Szuronyföld", "Ágyúhegy", 
+      "Vérvölgy", "Acélmező", "Gyárföld", "Kőbánya", "Sírhalom"
+    ]
+  },
+
+  {
+    "name": "Kaels",
+    "leaderName": "Chancellor Rieger",
+    "adjective": "Kaecian",
+    "startBias": ["Plains", "Forest"],
+    "preferredVictoryType": "Domination",
+
+    "priorities": {
+      "Honor": 90,
+      "Autocracy": 100,
+      "Commerce": 10,
+      "Tradition": 60
+    },
+
+    "uniques" : [
+      "City-State Influence recovers at twice the normal rate <when not at war>"
+    ],
+    
+    "startIntroPart1": "The Order of Kaels greets you. Under the discipline and iron fist of Chancellor Rieger, we march in perfect harmony.",
+    "startIntroPart2": "The individual is nothing; the State is everything. Bow before our doctrine or be crushed by the gears of our march.",
+    
+    "declaringWar": "Order must prevail, and your chaos shall be purged! The divisions of Kaels have been authorized to advance!",
+    "attacked": "An affront to the supreme authority of Kaels! All resources and citizens are mobilized for your total annihilation.",
+    "defeated": "The citadel has fallen... but Kaelian discipline will survive in the memory and shadow of the continent.",
+    "introduction": "I am Chancellor Rieger, Supreme Commander of Kaels. Present your terms with brevity and submission.",
+ 
+    "neutralHello": "High Command is listening. Say what you wish of the Order.",
+    "hateHello": "Your very existence brings chaos to our flawless order. Finish speaking before I order your arrest.",
+    
+    "tradeRequest": "Central Directorate has approved this resource exchange proposal. Sign it for the maintenance of stability.",
+    "denounced": "Your subversive rhetoric has been recorded. The world shall know of the danger your weakness represents.",
+    "declaringFriendship": "A pact of non-aggression and strategic cooperation. As long as you maintain discipline, we shall march together.",
+
+    "outerColor": [0, 0, 0],
+    "innerColor": [150, 19, 181],
+    
+    "cities": [
+      "Kaelenstadt", "Eisengard", "Kriegsfels", "Kranzburg", "Volksheim", 
+      "Stahldorf", "Schwarzwald", "Nachtburg", "Graustadt", "Oberklamm", 
+      "Drachenfels", "Machtburg", "Festung", "Steingarten", "Donnerheim", 
+      "Felsenburg", "Adlershorst", "Eisenheim", "Nordwacht", "Schattendorf", 
+      "Pfeilburg", "Heldenstadt", "Wachtfels", "Eisenklamm", "Tiefenstadt", 
+      "Schildburg", "Klingenfels", "Sturmheim", "Wolfsgarne", "Grenzstadt", 
+      "Schattenfels", "Nachtwacht", "Kaiserstadt", "Brechenburg", "Eisengarten"
+    ]
+  },
+
+  {
+    "name": "Virgo",
+    "leaderName": "President Gabriel de la Serna",
+    "adjective": "Virgonian",
+    "startBias": ["Tundra"],
+    "preferredVictoryType": "Diplomatic",
+
+    "priorities": {
+      "Liberty": 100,
+      "Patronage": 70,
+      "Commerce": 50,
+      "Tradition": 30
+    },
+
+    "uniques" :[
+      "[+1] Sight <in [Rough terrain] tiles>"
+    ],
+    
+    "startIntroPart1": "The Most Serene Republic of Virgo greets you. I am President Gabriel de la Serna, spokesman for the Northern Council.",
+    "startIntroPart2": "Amidst the tundras and winds, we have raised a society of free men and women, governed by law and resilience.",
+    
+    "declaringWar": "The Assembly has deliberated and the verdict has been handed down: to defend the freedom of the Republic, the militias of Virgo march to war!",
+    "attacked": "An aggression against the sovereignty of our people! Every frozen hill of Virgo will be a bulwark of resistance!",
+    "defeated": "The Council dissolves and the flame of the Republic dies out... May future generations remember our ideal of freedom.",
+    "introduction": "Greetings from the Republican Council of Virgo. I am President Gabriel de la Serna; speak, for diplomacy is the virtue of civilized peoples.",
+ 
+    "neutralHello": "Welcome to the lands of the Republic. How may our Council be of service?",
+    "hateHello": "Your actions insult the values of our people. State your business quickly before the Council ends this audience.",
+    
+    "tradeRequest": "The Trade Council approves this treaty. May mutual prosperity warm our nations through this harsh winter.",
+    "denounced": "Your actions have been formally condemned by our Assembly. The world shall know of the threat your tyranny poses.",
+    "declaringFriendship": "In the name of the Republic, we forge this union of cooperation and mutual respect. May our friendship be unwavering.",
+
+    "outerColor": [89, 120, 177],
+    "innerColor": [54, 34, 12],
+    
+    "cities": [
+      "Virgona", "Avisterna", "Guerola", "Caldarasa", "Castilforn", 
+      "Montemar", "Valdura", "Estarvia", "Luminosa", "Villaroya", 
+      "Salvatierra", "Ontiveras", "Nogueras", "Cervantes", "Torrealba", 
+      "Miralba", "Campoverde", "Fuentearca", "Almaraza", "Valdepeñas", 
+      "Serrandina", "Rocamora", "Vidalta", "Espinosa", "Lumbreras", 
+      "Montelobo", "Penalba", "Ribamontes", "Albaicín", "Villahermosa"
+    ]
+  },
+
+  {
+    "name": "Kwen",
+    "leaderName": "O-Daisan Ren",
+    "adjective": "Kwenese",
+    "startBias": ["Coast"],
+    "preferredVictoryType": "Diplomatic",
+
+    "priorities": {
+      "Commerce": 100,
+      "Exploration": 80,
+      "Patronage": 70,
+      "Liberty": 40,
+      "Honor": 20
+    },
+
+    "uniques": [],
+
+    "startIntroPart1": "The mists of the Kwen Archipelago greet your arrival. I am O-Daisan Ren, voice of the Seven Guilds Council.",
+    "startIntroPart2": "Through pristine waters and uninterrupted trade, we have proven that true power lies in accumulated wealth and mastery of the sea.",
+
+    "declaringWar": "Your trade routes are hereby seized and your markets closed. The Kwen fleet claims control of these waters!",
+    "attacked": "A foolish strike against our prosperity! Our treasury is deep enough to finance your absolute ruin.",
+    "defeated": "The merchant guilds fall silent... The great houses of Kwen sink beneath the tides of time.",
+    "introduction": "Greetings from the Great Houses of Kwen. I am O-Daisan Ren. Speak of terms and coin, for time is our most precious asset.",
+
+    "neutralHello": "The tides are favorable today. What business do you wish to bring before the Guilds of Kwen?",
+    "hateHello": "Your presence disrupts our commerce and drains our time. Speak quickly before the Council ends this audience.",
+
+    "tradeRequest": "The Council of Kwen has drafted this commercial contract. Sign it, and we shall both profit from the tide.",
+    "denounced": "Your financial and diplomatic incompetence is an affront to free trade. The world will know of your failure.",
+    "declaringFriendship": "A pact bound in gold and open seas! May the winds and profits ever blow in our favor.",
+
+    "outerColor": [198, 12, 49],
+    "innerColor": [255, 255, 255],
+
+    "cities": [
+      "Kwen-no-Minato", "Ren-Kyo", "Mizu-Shikoku", "Nami-Gawa", "Umi-no-Ichi",
+      "Kura-Yama", "Kaze-Shima", "Kojin-Oki", "Tsuki-Gishima", "Shizuka-Harbor",
+      "Kumo-Atoll", "Gingo-Bay", "Koga-Port", "Shin-Kwen", "Iwadare",
+      "Kin-Gawa", "Kuro-Shima", "Meiyo-Harbor", "Aoi-Nami", "Shiro-Saki",
+      "Tate-Isle", "Kasumi-Cove", "Hazama-Port", "Yami-Shima", "Ryujin-Reach",
+      "Ten-Goku", "Torii-Bay", "Sumi-Cove", "Akebono-Strand", "Fuyo-Atoll"
+    ]
+  }
+
+]
