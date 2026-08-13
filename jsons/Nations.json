@@ -3,7 +3,7 @@
     "name": "Lupiius",
     "leaderName": "Cecil I",
     "adjective": "Lupian",
-    "startBias": ["Snow"],
+    "startBias": ["Snow", "Tundra"],
     "preferredVictoryType": "Domination",
 
     "priorities": {
@@ -13,8 +13,11 @@
       "Tradition": 50
     },
 
+    "uniqueName": "Lupian March",
     "uniques": [
-    "[5]% [Production] from every [Coastal] <upon founding a city>"
+    "[5]% [Production] from every [Coastal] <upon founding a city>",
+    "[15]% Happiness from luxury resources gifted by City-States",
+    "Improves movement speed on roads"
   ],
     
     "startIntroPart1": "The Lupiius Empire greets you! Under the command of Cecil I, we march to glory.",
@@ -50,7 +53,7 @@
     "name": "Brakonia",
     "leaderName": "Tsar Valdor IV",
     "adjective": "Brakonian",
-    "startBias": ["Snow", "Tundra"],
+    "startBias": ["Plains", "Tundra"],
     "preferredVictoryType": "Domination",
 
     "priorities": {
@@ -60,8 +63,11 @@
       "Tradition": 5
     },
 
+    "uniqueName": "Red Fist",
     "uniques" :[
-      "[10]% [Science] [in puppeted cities]"
+      "[10]% [Science] [in puppeted cities]",
+      "Military Units gifted from City-States start with [50] XP",
+      "[+1 Production] from every specialist [in this city]"
     ],
     
     "startIntroPart1": "The frozen lands of Brakonia bow before you. I am Tsar Valdor IV, Autocrat of All the Snows.",
@@ -107,17 +113,19 @@
       "Tradition": 100
     },
     
+    "uniqueName": "Sound of Progress",
     "uniques": [
+      "Gifts of Gold to City-States generate [10]% more Influence",
     "Great General provides double combat bonus",
-    "Gain an extra spy <when at war>"
+    "Receive [150]% Gold from Barbarian encampments and pillaging Cities"
   ],
 
-    "startIntroPart1": "To the sound of military marches and industrial chimneys, the Empire of Valestia greets you. I am Emperor Vencel.",
-    "startIntroPart2": "The air smells of coal and gunpowder. Our great fatherland is ready for total war and absolute victory.",
+    "startIntroPart1": "To the sound of military marches, the Empire of Valestia greets you. I am Emperor Vencel.",
+    "startIntroPart2": "Our great fatherland is ready for total war and absolute victory.",
     
     "declaringWar": "Diplomacy has been exhausted. General mobilization has been decreed, and our artillery is already aimed at your borders!",
     "attacked": "A foolish offensive! Our trench lines are unbreakable, and barbed wire will be the grave of your soldiers.",
-    "defeated": "The Empire crumbles... The factories grow silent and our flag falls into the mud. But history will remember the roar of our cannons.",
+    "defeated": "The Empire crumbles... Silent and our flag falls into the mud. But history will remember the roar of our cannons.",
     "introduction": "Welcome to Valestia. I hope your intentions are peaceful, for my munition factories never sleep.",
  
     "neutralHello": "Greetings. Speak quickly, I have reports from the military front to read.",
@@ -155,8 +163,11 @@
       "Tradition": 60
     },
 
+    "uniqueName": "Eagle's Nest",
     "uniques" : [
-      "City-State Influence recovers at twice the normal rate <when not at war>"
+      "[1]% Unhappiness from [Population] [in capital] <every [3] turns> <when fighting in [your] tiles>",
+      "City-State Influence recovers at twice the normal rate <when not at war>",
+      "Militaristic City-States grant units [2] times as fast when you are at war with a common nation"
     ],
     
     "startIntroPart1": "The Order of Kaels greets you. Under the discipline and iron fist of Chancellor Rieger, we march in perfect harmony.",
@@ -202,6 +213,7 @@
       "Tradition": 30
     },
 
+    "uniqueName": "Vow of Freedom",
     "uniques" :[
       "[+1] Sight <in [Rough terrain] tiles>"
     ],
